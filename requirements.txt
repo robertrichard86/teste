@@ -1,1 +1,1 @@
-# Arquivo requirements.txt vazio, pois não há dependências necessárias
+Flask==3.0.0
